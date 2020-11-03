@@ -1,6 +1,7 @@
 alias ve='cd; nvim .vimrc'
 alias vr='nvim .zshrc'
 alias vi="nvim"
+alias vim="gvim"
 alias cl='clear'
 alias u='uptime'
 alias off='shutdown -h now'
