@@ -1,1 +1,1 @@
-/home/vm/.local/share/omf/themes/budspencer/fish_prompt.fish
+/home/vm/.local/share/omf/themes/redfish/fish_prompt.fish

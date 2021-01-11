@@ -12,4 +12,4 @@ alias rmd="recordmydesktop"
 alias exit="exit; exit"
 # controll screen brightness
 alias brightness="xrandr --output LVDS --brightness"
-
+alias q "exit"
